@@ -1,6 +1,11 @@
 package gomodulesdepone
 
-// GetData : return gomodulesdepone v1.0.0.
+import (
+	"log"
+)
+
+// GetData : return gomodulesdepone v1.0.1.
 func GetData() string {
-	return "Hi from gomodulesdepone v1.0.0"
+	log.Println("fix pug && become v1.0.1")
+	return "Hi from gomodulesdepone v1.0.1"
 }
