@@ -1,1 +1,1 @@
-module github.com/tarekbadrshalaan/gomodulesdepone
+module github.com/tarekbadrshalaan/gomodulesdepone/v2
